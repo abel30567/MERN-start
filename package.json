@@ -1,12 +1,12 @@
 {
-  "name": "iotastore",
+  "name": "mernapp",
   "version": "1.0.0",
-  "description": "How to create your own store that accepts IOTA.",
+  "description": "My MERN app description",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Claudio Atilano",
+  "author": " ",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
